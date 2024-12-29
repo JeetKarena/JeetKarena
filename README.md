@@ -110,8 +110,8 @@ const jeetKarena = {
 
 <div align="center">
   <a href="https://linkedin.com/in/jeet-karena-941323243"><img src="https://skillicons.dev/icons?i=linkedin" width="40px" /></a>&nbsp;
-  <a href="https://stackoverflow.com/users/your-id"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40px" /></a>&nbsp;
-  <a href="https://leetcode.com/your-username"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40px" /></a>&nbsp;
+  <a href="https://stackoverflow.com/users/20814451/jeet-karenas"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40px" /></a>&nbsp;
+  <a href="https://leetcode.com/u/jeetkarena3/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="40px" /></a>&nbsp;
   <a href="https://tryhackme.com/p/LordShadow"><img src="https://cdn.simpleicons.org/tryhackme/212C42" width="40px" /></a>
 </div>
 
