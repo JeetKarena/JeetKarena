@@ -82,6 +82,7 @@ const jeetKarena = {
 ### 🛠️ Tools & Environment
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,idea,vim,postman" />
+  <img src="https://n8n.io/favicon.ico">
 </p>
 
 </div>
