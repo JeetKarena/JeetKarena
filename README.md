@@ -91,6 +91,7 @@ const jeetKarena = {
 
 ###  Areas of Expertise
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#1f2937', 'primaryTextColor': '#ffffff', 'nodeTextColor': '#ffffff', 'edgeLabelBackground':'#333333'}}}%%
 graph TB
     A[System Design] --> B[Microservices Architecture]
     A --> C[Database Design & Optimization]
