@@ -222,7 +222,7 @@ graph TB
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=700&lines=Building+tomorrow's+systems+today.;Always+learning%2C+always+growing.;Let's+create+something+amazing+together!)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://img.shields.io/badge/Made%20with-❤️-teal" />
+  <img src="https://img.shields.io/badge/Made%20with-❤️-purple" />
   <img src="https://img.shields.io/badge/Powered%20by-Coffee-brown" />
   <img src="https://img.shields.io/badge/Fueled%20by-Curiosity-blue" />
 </p>
