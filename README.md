@@ -228,3 +228,5 @@ graph TB
 </p>
 
 </div>
+![Main Metrics](github-metrics.svg)
+![Topics Metrics](metrics-topics.svg)
