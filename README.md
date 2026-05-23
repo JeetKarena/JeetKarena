@@ -64,11 +64,8 @@ Production-parity environment for control-plane chaos engineering. Full observab
 
 ## 📊 Live Telemetry
 
-<p align="center">
-  <img src="github-metrics.svg" alt="Core Engineering Analytics" width="49%"/>
-  <img src="metrics-achievements.svg" alt="Recognition Metrics" width="49%"/>
-</p>
-
+  ![Core Engineering Analytics](./github-metrics.svg)
+  ![Recognition Metrics](./metrics-achievements.svg)
 ---
 
 ## 🤝 Connect
